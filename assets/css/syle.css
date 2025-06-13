@@ -8,8 +8,14 @@
     "foot foot";
   grid-template-rows: 50px 1fr 30px;
   grid-template-columns: 150px 1fr;
-}
 
+  
+}
+.row-cols-1.row-cols-md-3.g-4 {
+  margin-top: 10px;
+  margin-left: 10x;
+  margin-right: 10px;
+}
 .page > header {
   grid-area: head;
  
